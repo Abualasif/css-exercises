@@ -1,0 +1,19 @@
+.odd {
+    background-color: lightcoral;
+    font-family: Verdana, "Deja Vu Sans", sans-serif;
+}
+
+#el-two {
+    font-size: 32px;
+    color: blue;
+}
+
+#el-three {
+    font-size: 24px;
+}
+
+#el-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
